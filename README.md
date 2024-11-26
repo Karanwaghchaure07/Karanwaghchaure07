@@ -17,12 +17,12 @@
 
 - 📫 How to reach me **karanwaghchaure7@gmail.com**
 
-## 🌐 Socials:
+ ## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/karan-navnath-waghchaure-405b922a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan-navnath-waghchaure-405b922a7" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack:
+ # 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)<br>
@@ -41,4 +41,10 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="cplusplus"/>
   </a>
+
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=karanwaghchaure07&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=karanwaghchaure07&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=karanwaghchaure07&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
