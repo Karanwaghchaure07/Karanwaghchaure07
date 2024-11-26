@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **karanwaghchaure7@gmail.com**
 
+- ⚡ Fun fact **Web**
+
  ## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/karan-navnath-waghchaure-405b922a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan-navnath-waghchaure-405b922a7" height="30" width="40" /></a>
