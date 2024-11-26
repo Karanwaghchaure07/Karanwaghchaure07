@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **karanwaghchaure7@gmail.com**
 
-- ⚡ Fun fact **Web**
+- ⚡ Fun fact **Laughing**
 
  ## 🌐 Socials:
 <p align="left">
