@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **[Web-Development Projects](https://karanwaghchaure07.github.io/Weather_App/)**
 
-- 🌱 I’m currently learning **Python , Django etc.**
+- 🌱 I’m enthusiastic learner of **Python , Django etc.**
 
-- 🔭 I’m currently focusing on **AIMl Projects and Web-Development.**
+- 🔭 I’m focusing on **AIMl Projects and Web-Development Projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Karanwaghchaure07](https://github.com/Karanwaghchaure07)
 
