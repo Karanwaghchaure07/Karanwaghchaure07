@@ -5,7 +5,9 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
-- 🔭 I’m currently working on **[Web-Development Projects](https://karanwaghchaure07.github.io/Weather_App/)**
+- 🔭 I’m working on **[Web-Development Projects](https://karanwaghchaure07.github.io/Weather_App/)**
+
+- 💻 I'm Currently working as an intern at **NM INFOCOM**
 
 - 🌱 I’m enthusiastic learner of **Python , Django etc.**
 
