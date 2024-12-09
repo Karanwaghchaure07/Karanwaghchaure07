@@ -7,7 +7,7 @@
 
 - 🔭 I’m working on **[Web-Development Projects](https://karanwaghchaure07.github.io/Weather_App/)**
 
-- 💻 I'm Currently working as an intern at **NM INFOCOM**
+- 💻 I'm Currently working as an intern at **NM INFOCOM** as a **Web developer**
 
 - 🌱 I’m enthusiastic learner of **Python , Django etc.**
 
