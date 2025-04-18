@@ -51,7 +51,6 @@
   </a>
 
   # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanwaghchaure07&layout=compact&hide_border=false&theme=react&langs_count=8)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=karanwaghchaure07&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karanwaghchaure07&theme=react&hide_border=false&layout=compact&langs_count=8&hide=c)
 
