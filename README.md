@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHEH7v51YZBlQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1724420783401?e=1738195200&v=beta&t=Fcn0U-lkWQReKB9RzBqnSM-D3UthC-GSMYv2-fMbt_g)
+
 <h1 align="center">Hi 👋, I'm Karan Waghchaure</h1>
 <h3 align="center">A Passionate AIML engineer currently pursuing a degree in CSE(AIML) in SCOE</h3>
 
@@ -51,7 +51,7 @@
   </a>
 
   # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karanwaghchaure07&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanwaghchaure07&layout=compact&hide_border=false&theme=react&langs_count=8)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=karanwaghchaure07&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karanwaghchaure07&theme=react&hide_border=false&layout=compact&langs_count=8&hide=c)
 
