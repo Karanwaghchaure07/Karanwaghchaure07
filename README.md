@@ -10,7 +10,7 @@
 - 💻 I'm Currently working as an intern at **NM INFOCOM** as a **Web developer**
 
 - 🌱 I’m enthusiastic learner of **Python , Django etc.**
-
+  
 - 🔭 I’m focusing on **AIMl Projects and Web-Development Projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Karanwaghchaure07](https://github.com/Karanwaghchaure07)
