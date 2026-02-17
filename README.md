@@ -7,7 +7,7 @@
 
 - 🔭 I’m working on **[Web-Development Projects](https://karanwaghchaure07.github.io/Weather_App/) & Python-Projects**
 
-- 💻 **Won 4X Hackathon ✨🎉 & 4th winner of Google Developer club (Techsprint) at Atharva college of engineering** 
+- 💻 **Won 5X Hackathon ✨🎉 & 4th winner of Google Developer club (Techsprint) at Atharva college of engineering** 
 
 - 🌱 I’m enthusiastic learner of **Python , Django etc.**
   
