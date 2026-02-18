@@ -9,6 +9,8 @@
 
 - 💻 **Won 5X Hackathon ✨🎉 & 4th winner of Google Developer club (Techsprint) at Atharva college of engineering** 
 
+- **Got Award From ISRO Director 🎉** 
+
 - 🌱 I’m enthusiastic learner of **Python , Django etc.**
   
 - 🔭 I’m focusing on **AIMl Projects and Web-Development Projects.**
